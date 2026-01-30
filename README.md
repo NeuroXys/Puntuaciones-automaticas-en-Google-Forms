@@ -22,6 +22,8 @@ Está pensado para ahorrar tiempo cuando se trabaja con formularios largos o cua
 
 * Ajustes masivos de puntuación tras duplicar un formulario.
 
+# Código
+
 <details>
 <summary>Click aquí para ver el código</summary>
 
